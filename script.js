@@ -37,7 +37,7 @@ function _0x24f7(_0x64eee1, _0x6ff2e2) {
         }
     }
 }(_0x433e, 0xe985b));
-var passwords = ['PASSWORD{5UP3R_5UP3R_53CR3T_P455}'],
+var passwords = ['PASSWORD{T0T4LLY_N0T_MY_P455W0RD}'],
     indexOld, index = Math['floor'](Math[_0x52f20b(0x127)]() * passwords[_0x52f20b(0x12b)]),
     password = passwords[index],
     characters = [],
